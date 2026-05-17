@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "cron": "skeletonswap-lp_data",
-  "capturedAt": "2026-05-16T23:45:23.616Z",
-  "capturedAtUnix": 1778975123616,
-  "runId": "ss-20260516234523",
+  "capturedAt": "2026-05-17T23:45:22.960Z",
+  "capturedAtUnix": 1779061522960,
+  "runId": "ss-20260517234522",
   "runMode": "daily",
   "currentEpoch": 185,
   "status": "ok",
   "stats": {
     "poolsProcessed": 40,
-    "fileWritten": "day-6.csv"
+    "fileWritten": "day-7.csv"
   },
-  "next_expected_run_at": "2026-05-17T23:45:23.616Z"
+  "next_expected_run_at": "2026-05-18T23:45:22.960Z"
 }
