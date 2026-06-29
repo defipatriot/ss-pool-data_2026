@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "cron": "skeletonswap-lp_data",
-  "capturedAt": "2026-06-29T00:05:20.293Z",
-  "capturedAtUnix": 1782691520293,
-  "runId": "ss-20260629000520",
-  "runMode": "weekly",
+  "capturedAt": "2026-06-29T23:45:20.191Z",
+  "capturedAtUnix": 1782776720191,
+  "runId": "ss-20260629234520",
+  "runMode": "daily",
   "currentEpoch": 192,
   "status": "ok",
   "stats": {
     "poolsProcessed": 34,
-    "poolsPriced": null,
-    "poolsUnpriced": null,
-    "poolsChainFailed": null,
-    "tvlSumUsd": null,
-    "fileWritten": "2026-epoch-192.csv"
+    "poolsPriced": 29,
+    "poolsUnpriced": 5,
+    "poolsChainFailed": 0,
+    "tvlSumUsd": 493948.38,
+    "fileWritten": "day-1.csv"
   },
-  "dataFingerprint": null,
+  "dataFingerprint": "cbb8203423fa",
   "previousFingerprint": null,
-  "dataFreshness": null,
+  "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-07-06T00:05:20.293Z"
+  "next_expected_run_at": "2026-06-30T23:45:20.191Z"
 }
